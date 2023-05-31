@@ -1,5 +1,7 @@
 Fashion-Class-Classification-Using-CNN
+
 The global fashion industry is valued at three trillion dollars and accounts for 2 percent of the world's. GDP the fashion industry is undergoing a dramatic transformation by adopting new computer vision and Machine learning and deep learning techniques.
+
 
 In this case study we'll look at a hypothetical situation. We assume that if a retailer hired you to build a virtual stylist assistant that looks at customer Instagram and Facebook images and classifies what fashion category they are wearing either bags dresses and pants. The virtual assistant can help the retailer detect and forecast fashion trends and launch targeted marketing campaigns.
 
